@@ -1,0 +1,8 @@
+.login-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #ae5eeb;
+  height: 100vh;
+  align-items: center;
+}
